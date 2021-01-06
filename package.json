@@ -2,7 +2,6 @@
   "name": "zombi-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jood80.github.io/kittens-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
